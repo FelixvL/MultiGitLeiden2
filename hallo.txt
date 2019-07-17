@@ -1,4 +1,5 @@
 Hallo dit is mijn zin // Felix
 
 
-Fred is jarig! // Wesley
+Frits en Fred zijn jarig // Wesley,Felix
+
